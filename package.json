@@ -1,0 +1,8 @@
+{
+  "name": "wcb-cafe",
+  "version": "1.0.0",
+  "description": "Created wcb-cafe",
+  "scripts": {
+    "start": "echo 'No server needed for static content.'"
+  }
+}
